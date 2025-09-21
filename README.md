@@ -1,4 +1,4 @@
-# 🛍️ Frontend - CRUD de Produtos e Usuários
+# Frontend - CRUD de Produtos e Usuários
 
 Este é o frontend em **React** para consumir a API criada na Atividade 1.  
 O sistema permite **listar, criar, editar e excluir** Produtos e Usuários.
