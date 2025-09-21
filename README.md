@@ -1,12 +1,29 @@
-# React + Vite
+# 🛍️ Frontend - CRUD de Produtos e Usuários
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o frontend em **React** para consumir a API criada na Atividade 1.  
+O sistema permite **listar, criar, editar e excluir** Produtos e Usuários.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Estrutura do Projeto
+### As rotas estão definidas no arquivo App.jsx
 
-## Expanding the ESLint configuration
+---
+## Para rodar o projeto
+  - [Baixar backend da aplicação](https://github.com/augustopdelima/Atividade-1-dev-full-stack)
+  - Rode o seguinte comando para inicar a aplicação
+  ```bash
+    npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tecnologias utilizadas
+- [React](https://react.dev/)
+- [React Router DOM](https://reactrouter.com/)
+- [Axios](https://axios-http.com/)
+- [Vite](https://vitejs.dev/) (para build e execução do projeto)
+- CSS puro (arquivo `index.css` para estilização)
+
+ 
+
